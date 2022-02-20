@@ -1,0 +1,16 @@
+h1
+{
+    padding-bottom: 20%;
+    text-align: center;
+    background-image: url(image_ballon.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+
+}
+
+.article
+{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
